@@ -24,7 +24,7 @@ public class ModdedFirst
     public static final String MOD_ID = "moddedfirst";
     // Directly reference a slf4j logger
     private static final Logger LOGGER = LogUtils.getLogger();
-
+    // Added a comment
     public ModdedFirst()
     {
         // Register the setup method for modloading
