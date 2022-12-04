@@ -1,6 +1,7 @@
 package com.puppetmarion.moddedfirst;
 
 import com.mojang.logging.LogUtils;
+import com.puppetmarion.moddedfirst.block.ModBlocks;
 import com.puppetmarion.moddedfirst.item.ModItems;
 import net.minecraft.world.level.block.Block;
 import net.minecraft.world.level.block.Blocks;
@@ -31,6 +32,7 @@ public class ModdedFirst
     {
         IEventBus eventBus = FMLJavaModLoadingContext.get().getModEventBus();
         ModItems.register(eventBus);
+        ModBlocks.register(eventBus);
 
         eventBus.addListener(this::setup);
 
