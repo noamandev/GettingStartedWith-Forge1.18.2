@@ -1,4 +1,10 @@
 {
   "item.moddedfirst.ruby": "Ruby",
-  "block.moddedfirst.ruby_block": "Ruby Block"
+  "item.moddedfirst.citrine": "Citrine",
+  "item.moddedfirst.raw_citrine": "Raw Citrine",
+
+  "block.moddedfirst.ruby_block": "Ruby Block",
+  "block.moddedfirst.ruby_ore": "Ruby Ore",
+  "block.moddedfirst.deepslate_ruby_ore": "Deepslate Ruby Ore",
+  "itemGroup.moddedtab": "Modded Items"
 }

@@ -31,6 +31,7 @@ public class ModdedFirst
     public ModdedFirst()
     {
         IEventBus eventBus = FMLJavaModLoadingContext.get().getModEventBus();
+        // Registering Modded stuff
         ModItems.register(eventBus);
         ModBlocks.register(eventBus);
 
