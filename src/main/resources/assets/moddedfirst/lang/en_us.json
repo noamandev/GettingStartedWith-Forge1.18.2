@@ -6,5 +6,10 @@
   "block.moddedfirst.ruby_block": "Ruby Block",
   "block.moddedfirst.ruby_ore": "Ruby Ore",
   "block.moddedfirst.deepslate_ruby_ore": "Deepslate Ruby Ore",
+
+  "block.moddedfirst.citrine_block": "Citrine Block",
+  "block.moddedfirst.citrine_ore": "Citrine Ore",
+  "block.moddedfirst.raw_citrine_block": "Raw Citrine Block",
+
   "itemGroup.moddedtab": "Modded Items"
 }

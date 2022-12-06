@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "moddedfirst:citrine"
+    }
+  },
+  "result": {
+    "item": "moddedfirst:citrine_block"
+  }
+}

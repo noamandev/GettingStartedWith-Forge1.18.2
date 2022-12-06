@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:smelting",
+  "group": "copper_ingot",
+  "ingredient": {
+    "item": "moddedfirst:citrine_ore"
+  },
+  "result": "moddedfirst:citrine",
+  "experience": 0.7,
+  "cookingtime": 300
+}
